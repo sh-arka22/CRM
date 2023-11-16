@@ -61,7 +61,10 @@ npm install
 
 ##### Before running the app locally, ensure to put all the configurable properties in .env file(following seperation of concern design principle).
 
-#### IMPORTANT NOTE-This App integrated with a notification service app, to send email notification asynchronously to the concerned members of the ticket on ticket creation and updation. So before running this app,ensure to configure and run the [notification service API]([https://github.com/sh-arka22/Notification-App])
+#### IMPORTANT NOTE
+`
+This app is integrated with a notification service app to send email notifications asynchronously to the concerned members of the ticket on ticket creation and updation. Before running this app, ensure to configure and run the [notification service API](https://github.com/sh-arka22/Notification-App).
+`
 
 ### Installation
 
